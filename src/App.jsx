@@ -239,7 +239,7 @@ const initialCvData = {
       certNumber: "CLEO/2005/AP/2023",
       date: "20 Mei 2023",
       type: "antologi_puisi",
-      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`antologi%20puisi.jpg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/Portofolio-Hafizuddin-Ghani-Ifkar/`antologi%20puisi.jpg",
       description: "Menulis dan menghasilkan karya puisi yang dipublikasikan dalam buku antologi nasional bertajuk 'Aku Mau Jadi Apa?'."
     },
     {
@@ -249,7 +249,7 @@ const initialCvData = {
       certNumber: "CLEO/SOLO/1404/2023",
       date: "14 April 2023",
       type: "biografi_pahlawan",
-      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`buku%20pahlawan.jpg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/Portofolio-Hafizuddin-Ghani-Ifkar/`buku%20pahlawan.jpg",
       description: "Berkontribusi dalam penulisan buku sejarah yang mengangkat kisah biografi tokoh-tokoh pahlawan nasional Indonesia."
     }
   ],
@@ -263,7 +263,7 @@ const initialCvData = {
       certNumber: "1158950 /P/BI/KSB/X/2023",
       date: "08 Oktober 2023",
       type: "ksb_gold",
-      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`serifikat%20medali.jpg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/Portofolio-Hafizuddin-Ghani-Ifkar/`serifikat%20medali.jpg",
       description: "Meraih Medali Emas tingkat nasional dalam Kompetisi Siswa Braindicator pada bidang Bahasa Indonesia jenjang SMA/MA/SMK."
     },
     {
@@ -275,7 +275,7 @@ const initialCvData = {
       certNumber: "421.3/240/V.01/SMA/2025",
       date: "2025",
       type: "paskibra",
-      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`sertifikat%20paskib.jpeg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/Portofolio-Hafizuddin-Ghani-Ifkar/`sertifikat%20paskib.jpeg",
       description: "Sertifikat penghargaan sebagai Ketua Protokoler Pasukan Pengibar Bendera (Paskibra) SMAN 14 Bandar Lampung Periode 2023/2024."
     }
   ]
@@ -1834,4 +1834,5 @@ export default function App() {
     </div>
   );
 }
+
 
