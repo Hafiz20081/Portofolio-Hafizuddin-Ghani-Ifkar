@@ -42,8 +42,8 @@ import {
 const initialGalleryPhotos = [
   {
     id: 'photo-1',
-    url: '/mc-geosphere.jpeg',
-    images: ['/mc-geosphere.jpeg', '/mc-geosphere-2.jpeg', '/mc-geosphere-3.jpeg', '/mc-geosphare-4.jpeg', '/mc-geosphare-5.jpeg'],
+    url: '/Portofolio-Hafizuddin-Ghani-Ifkar/mc-geosphere.jpeg',
+    images: ['/Portofolio-Hafizuddin-Ghani-Ifkar/mc-geosphere.jpeg', '/Portofolio-Hafizuddin-Ghani-Ifkar/mc-geosphere-2.jpeg', '/Portofolio-Hafizuddin-Ghani-Ifkar/mc-geosphere-3.jpeg', '/Portofolio-Hafizuddin-Ghani-Ifkar/mc-geosphare-4.jpeg', '/Portofolio-Hafizuddin-Ghani-Ifkar/mc-geosphare-5.jpeg'],
     title: 'Master of Ceremony Geosphere',
     category: 'mc',
     categoryLabel: 'MC & Public Speaking',
@@ -51,13 +51,13 @@ const initialGalleryPhotos = [
   },
   {
     id: 'photo-5',
-    url: '/Pendamping%20Kelompok.jpeg',
+    url: '/Portofolio-Hafizuddin-Ghani-Ifkar/Pendamping%20Kelompok.jpeg',
     images: [
-      '/Pendamping%20Kelompok.jpeg',
-      '/Pendamping%20Kelompok-2.jpeg',
-      '/Pendamping%20Kelompok-3.jpeg',
-      '/Pendamping%20Kelompok-4.jpeg',
-      '/Pendamping%20Kelompok-5.jpeg'
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Pendamping%20Kelompok.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Pendamping%20Kelompok-2.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Pendamping%20Kelompok-3.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Pendamping%20Kelompok-4.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Pendamping%20Kelompok-5.jpeg'
     ],
     title: 'Pendamping Kelompok PPLK ITERA',
     category: 'pplk',
@@ -66,13 +66,13 @@ const initialGalleryPhotos = [
   },
   {
     id: 'photo-riuh-wisuda',
-    url: '/Riuh%20April.jpeg',
+    url: '/Portofolio-Hafizuddin-Ghani-Ifkar/Riuh%20April.jpeg',
     images: [
-      '/Riuh%20April.jpeg',
-      '/Riuh%20April-2.jpeg',
-      '/Riuh%20April-3.jpeg',
-      '/Riuh%20April-4.jpeg',
-      '/Riuh%20April-5.jpeg'
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Riuh%20April.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Riuh%20April-2.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Riuh%20April-3.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Riuh%20April-4.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Riuh%20April-5.jpeg'
     ],
     title: 'Riuh Wisuda April Sub Div Medis',
     category: 'organisasi',
@@ -81,13 +81,13 @@ const initialGalleryPhotos = [
   },
   {
     id: 'photo-7',
-    url: '/Foto%20Bersama.jpeg',
+    url: '/Portofolio-Hafizuddin-Ghani-Ifkar/Foto%20Bersama.jpeg',
     images: [
-      '/Foto%20Bersama.jpeg',
-      '/Foto%20Bersama-2.jpeg',
-      '/Foto%20Bersama-3.jpeg',
-      '/Foto%20Bersama-4.jpeg',
-      '/Foto%20Bersama-5.jpeg'
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Foto%20Bersama.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Foto%20Bersama-2.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Foto%20Bersama-3.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Foto%20Bersama-4.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/Foto%20Bersama-5.jpeg'
     ],
     title: 'Foto Bersama Teknik Geomatika ITERA Angkatan 2025',
     category: 'organisasi',
@@ -96,13 +96,13 @@ const initialGalleryPhotos = [
   },
   {
     id: 'photo-8',
-    url: '/PIK%20R.jpeg',
+    url: '/Portofolio-Hafizuddin-Ghani-Ifkar/PIK%20R.jpeg',
     images: [
-      '/PIK%20R.jpeg',
-      '/PIK%20R-2.jpeg',
-      '/PIK%20R-3.jpeg',
-      '/PIK%20R-4.jpeg',
-      '/PIK%20R-5.jpeg'
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/PIK%20R.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/PIK%20R-2.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/PIK%20R-3.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/PIK%20R-4.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/PIK%20R-5.jpeg'
     ],
     title: 'PIK-R SEJAHTERA',
     category: 'organisasi',
@@ -111,14 +111,14 @@ const initialGalleryPhotos = [
   },
   {
     id: 'photo-9',
-    url: '/MC%20RIUH.jpeg',
+    url: '/Portofolio-Hafizuddin-Ghani-Ifkar/MC%20RIUH.jpeg',
     images: [
-      '/MC%20RIUH.jpeg',
-      '/MC%20RIUH-2.jpeg',
-      '/MC%20RIUH-3.jpeg',
-      '/MC%20RIUH-4.jpeg',
-      '/MC%20RIUH-5.jpeg',
-      '/MC%20RIUH-6.jpeg'
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/MC%20RIUH.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/MC%20RIUH-2.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/MC%20RIUH-3.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/MC%20RIUH-4.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/MC%20RIUH-5.jpeg',
+      '/Portofolio-Hafizuddin-Ghani-Ifkar/MC%20RIUH-6.jpeg'
     ],
     title: 'Master of Ceremony Awarding Party Wisuda Juli',
     category: 'organisasi',
@@ -239,7 +239,7 @@ const initialCvData = {
       certNumber: "CLEO/2005/AP/2023",
       date: "20 Mei 2023",
       type: "antologi_puisi",
-      imageUrl: "/antologi%20puisi.jpg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`antologi%20puisi.jpg",
       description: "Menulis dan menghasilkan karya puisi yang dipublikasikan dalam buku antologi nasional bertajuk 'Aku Mau Jadi Apa?'."
     },
     {
@@ -249,7 +249,7 @@ const initialCvData = {
       certNumber: "CLEO/SOLO/1404/2023",
       date: "14 April 2023",
       type: "biografi_pahlawan",
-      imageUrl: "/buku%20pahlawan.jpg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`buku%20pahlawan.jpg",
       description: "Berkontribusi dalam penulisan buku sejarah yang mengangkat kisah biografi tokoh-tokoh pahlawan nasional Indonesia."
     }
   ],
@@ -263,7 +263,7 @@ const initialCvData = {
       certNumber: "1158950 /P/BI/KSB/X/2023",
       date: "08 Oktober 2023",
       type: "ksb_gold",
-      imageUrl: "/serifikat%20medali.jpg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`serifikat%20medali.jpg",
       description: "Meraih Medali Emas tingkat nasional dalam Kompetisi Siswa Braindicator pada bidang Bahasa Indonesia jenjang SMA/MA/SMK."
     },
     {
@@ -275,7 +275,7 @@ const initialCvData = {
       certNumber: "421.3/240/V.01/SMA/2025",
       date: "2025",
       type: "paskibra",
-      imageUrl: "/sertifikat%20paskib.jpeg",
+      imageUrl: "/Portofolio-Hafizuddin-Ghani-Ifkar/`sertifikat%20paskib.jpeg",
       description: "Sertifikat penghargaan sebagai Ketua Protokoler Pasukan Pengibar Bendera (Paskibra) SMAN 14 Bandar Lampung Periode 2023/2024."
     }
   ]
@@ -390,7 +390,7 @@ export default function App() {
   const [touchStartX, setTouchStartX] = useState(null);
   const [galleryFilter, setGalleryFilter] = useState('all');
   const [customImageUrls, setCustomImageUrls] = useState({});
-  const [profilePhotoUrl, setProfilePhotoUrl] = useState('/profile.jpeg');
+  const [profilePhotoUrl, setProfilePhotoUrl] = useState('/Portofolio-Hafizuddin-Ghani-Ifkar/profile.jpeg');
   const [isShareModalOpen, setIsShareModalOpen] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
