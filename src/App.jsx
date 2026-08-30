@@ -295,7 +295,7 @@ const initialFaqList = [
   {
     category: "Keahlian & Pendidikan",
     question: "Program studi apa yang diambil Hafiz di ITERA dan apa keahlian utamanya?",
-    answer: "Hafiz adalah mahasiswa aktif semester 3 Program Studi Teknik Geomatika di Institut Teknologi Sumatera (ITERA). Keahlian utamanya meliputi Public Speaking/MC, Manajemen Acara & Protokoler, Penulisan Karya Sastra, serta penguasaan perangkat lunak pemetaan dasar & Microsoft Office."
+    answer: "Hafiz adalah mahasiswa aktif semester 3 Program Studi Teknik Geomatika di Institut Teknologi Sumatera (ITERA). Keahlian utamanya meliputi Public Speaking/MC, Manajemen Acara & Protokoler, Penulisan Karya Sastra & Microsoft Office."
   },
   {
     category: "Speaker & Workshop",
@@ -1834,5 +1834,6 @@ export default function App() {
     </div>
   );
 }
+
 
 
